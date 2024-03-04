@@ -1,0 +1,117 @@
+html {
+  background: #0c6c9d;
+}
+
+body {
+  text-align: center;
+  width: 800px;
+  padding: 30px 50px;
+  margin: 20px auto;
+  border-radius: 20px;
+  background: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+#time-table {
+  border: 1px solid red;
+  margin: 0px auto;
+}
+#time-table td {
+  border: 1px dotted blue;
+  padding: 10px;
+}
+#row-1 {
+  background-color: #053561;
+  color: white;
+}
+.block {
+  background: black;
+  color: white;
+}
+.time {
+  font-size: 8px;
+  font-style: italic;
+}
+.subject:hover {
+  background: #06413a;
+  color: white;
+  cursor: cell;
+  font-size: 12px;
+  transition: font-size 0.5s, background 0.5s, color 0.5s, font-size 0.5s;
+}
+img {
+  width: 80px;
+}
+
+#sns {
+  background-color: #0c6c9d;
+  padding: 30px 5px;
+
+  margin: 10px 190px;
+
+  border-radius: 15%;
+}
+#sns hr {
+  width: 319px;
+}
+#Socials {
+  margin: auto;
+}
+#Socials td {
+  padding: 2px 50px;
+}
+#college {
+  background-color: #99e1f3;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+#college h1 {
+  color: rgb(47, 149, 156);
+}
+#college table {
+  border-bottom-color: black;
+  border-right-color: black;
+  border-left: rgb(129, 103, 95);
+  border-top-color: rgb(129, 103, 95);
+  border-style: solid;
+  border-width: 2px;
+  margin: auto;
+  border-spacing: 4px;
+}
+#college td {
+  border-left-color: black;
+  border-top-color: black;
+  border-right-color: rgb(129, 103, 95);
+  border-bottom-color: rgb(129, 103, 95);
+  border-style: solid;
+  border-width: 0.5px;
+}
+#special {
+  text-align: left;
+}
+#Lunch p {
+  text-align: center;
+}
+.blue {
+  color: blue;
+}
+.red {
+  color: red;
+}
+.pink {
+  color: pink;
+}
+#green {
+  color: green;
+}
+.maroon {
+  color: brown;
+}
+.brown {
+  color: maroon;
+}
+.yellow {
+  color: orange;
+}
